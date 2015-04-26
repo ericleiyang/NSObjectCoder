@@ -49,7 +49,7 @@ Podfile
 
 ```ruby
 platform :ios, '7.0'
-pod "AFNetworking", "~> 2.0"
+pod "NSObjectCoder", "~> 2.0"
 ```
 
 ## License 
