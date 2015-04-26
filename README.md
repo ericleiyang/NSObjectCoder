@@ -22,13 +22,11 @@ Version `1.0`
 
 
 
-## How-to use
+## How to use
 
 * Download [NSObjectCoder](https://github.com/Eric-LeiYang/NSObjectCoder.git) and drag `NSObjectCoder` folder directly to your project.
 
-* For any class extending `NSObject` that you would like to encode and decode, 
-
-	Import `NSObjectCoder.h` into `.h` file:
+* For any class extending `NSObject` that you would like to encode and decode, import `NSObjectCoder.h` into your `.h` file:
 
 
 	```objective-c
@@ -70,14 +68,14 @@ Version `1.0`
 
 ##Installation with 'CocoaPods'
 
-[CocoaPods](https://cocoapods.org) is a dependency manager for Objective-C, which automates and simplifies the process of using 3rd-party libraries like NSObjectCoder in your projects. See the "Getting Started guide" for more information.
+[CocoaPods](https://cocoapods.org) is a dependency manager for Objective-C, which automates and simplifies the process of using 3rd-party libraries like NSObjectCoder in your projects.
 
 Podfile
 
 
 ```ruby
 platform :ios, '7.0'
-pod "NSObjectCoder", "~> 2.0"
+pod "NSObjectCoder", "~> 1.0"
 ```
 
 ## License 
